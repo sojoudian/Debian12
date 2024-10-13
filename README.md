@@ -34,13 +34,13 @@ This will create a backup of the original file in case you need to restore it la
 Clone this repository to your local machine using `git`:
 
 ```bash
-git clone https://github.com/yourusername/debian-12-sources-list.git
+git clone https://github.com/yourusername/debian12.git
 ```
 
 Navigate to the directory:
 
 ```bash
-cd debian-12-sources-list
+cd debian12
 ```
 
 ### Step 3: Replace Your sources.list
