@@ -1,0 +1,15 @@
+# Debian 12 (Bookworm) main repositories
+deb http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
+deb-src http://deb.debian.org/debian/ bookworm main contrib non-free non-free-firmware
+
+# Debian 12 (Bookworm) updates
+deb http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
+deb-src http://deb.debian.org/debian/ bookworm-updates main contrib non-free non-free-firmware
+
+# Security updates
+deb http://deb.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
+deb-src http://deb.debian.org/debian-security bookworm-security main contrib non-free non-free-firmware
+
+# Backports (optional, if you want newer versions of some packages)
+deb http://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware
+deb-src http://deb.debian.org/debian/ bookworm-backports main contrib non-free non-free-firmware
